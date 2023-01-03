@@ -11,6 +11,6 @@ Use 3 Fingers to - Press Esc
 Close Hand No freely move your hand without executing commands                        
 
 # *HOW TO INSTALL/USE* 
-**TUTORIAL - **        
+TUTORIAL -    
 
  
