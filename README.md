@@ -10,5 +10,6 @@ WATCH THIS, IT WILL BE ALOT EASIER - (COMING SOON)
 1️⃣ Clone this repository.      
 2️⃣ Install requirements.txt      
 3️⃣ In openCV module(whereever you installed it), replace their HandTrackingModule.py with the one provided.      
-4️⃣ Run using /path/to/python/ main.py        
-
+4️⃣ Config the variables in main.py according to your camera and Run it using the .venv interpreter.            
+Variables to Config are - hand_detect_difference, delay, confidence
+ 
