@@ -1,15 +1,16 @@
 # *CamControl*
 
 Control your Computer using your hands.      
-Video showcase: (COMING SOON)         
+Video showcase: https://www.youtube.com/watch?v=WsArPMzmZHk&t=6s        
 TUTORIAL: (COMING SOON)
+
+#DEFAULT CONTROLS:                               
+Use 5 Fingers to use Arrow keys - Up, Down, Left Right
+Use 2 Fingers to - Press Enter
+Use 3 Fingers to - Press Esc
+Close Hand No freely move your hand without executing commands
+
 # *HOW TO INSTALL/USE* 
-**WATCH THIS, IT WILL BE ALOT EASIER - (COMING SOON)**        
-Basic steps, recommended to use .venv since this uses a modified version of OpenCV        
-WATCH THIS, IT WILL BE ALOT EASIER - (COMING SOON)           
-1️⃣ Clone this repository.      
-2️⃣ Install requirements.txt      
-3️⃣ In openCV module(whereever you installed it), replace their HandTrackingModule.py with the one provided.      
-4️⃣ Config the variables in main.py according to your camera and Run it using the .venv interpreter.            
-Variables to Config are - hand_detect_difference, delay, confidence
+**TUTORIAL - **        
+
  
