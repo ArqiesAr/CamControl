@@ -2,7 +2,7 @@
 
 Control your Computer using your hands.      
 Video showcase: https://www.youtube.com/watch?v=WsArPMzmZHk&t=6s        
-TUTORIAL: (COMING SOON)
+TUTORIAL: https://youtu.be/DZ6u0nQrk48
 
 # DEFAULT CONTROLS:                                         
 Use 5 Fingers to use Arrow keys - Up, Down, Left Right                       
@@ -11,6 +11,6 @@ Use 3 Fingers to - Press Esc
 Close Hand No freely move your hand without executing commands                        
 
 # *HOW TO INSTALL/USE* 
-TUTORIAL -    
+TUTORIAL - https://youtu.be/DZ6u0nQrk48
 
  
